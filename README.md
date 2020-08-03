@@ -3,7 +3,7 @@ Corona Counter keeps track of all statistics about the coronavirus.
 
 ### :zap: Live Version
 The live version of profilegrabber is hosted on netlify and you can find it at <br>
-[https://rohit.nl/coronacounter](https://rohit.nl/coronacounter)
+<a href="https://rohit.nl/coronacounter" target="_blank">https://rohit.nl/coronacounter</a>
 
 ### :star: Features
 - Track all numbers
